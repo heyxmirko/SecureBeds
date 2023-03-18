@@ -1,0 +1,4 @@
+name: SecureBeds
+version: '${project.version}'
+main: me.heyxmirko.securebeds.SecureBeds
+api-version: 1.19
